@@ -20,3 +20,4 @@ Desktop.ini # Windows desktop icon settings
 
 # Others
 *.log   # Log files
+*.env
